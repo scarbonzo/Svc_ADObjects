@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ActiveDirectoryObjectsModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="ActiveDirectoryUsers">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="username" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="displayname" Type="varchar" MaxLength="50" />
+    <Property Name="firstname" Type="varchar" MaxLength="50" />
+    <Property Name="lastname" Type="varchar" MaxLength="50" />
+    <Property Name="ou" Type="varchar" MaxLength="500" />
+    <Property Name="program" Type="varchar" MaxLength="50" />
+    <Property Name="office" Type="varchar" MaxLength="50" />
+    <Property Name="email" Type="varchar" MaxLength="50" />
+    <Property Name="extension" Type="varchar" MaxLength="50" />
+    <Property Name="title" Type="varchar" MaxLength="100" />
+    <Property Name="groups" Type="varchar(max)" />
+    <Property Name="passwordlastset" Type="datetime" />
+    <Property Name="lastlogin" Type="datetime" />
+    <Property Name="deleted" Type="bit" />
+    <Property Name="deletiondate" Type="datetime" />
+    <Property Name="notes" Type="varchar(max)" />
+    <Property Name="expirable" Type="bit" />
+    <Property Name="lastupdate" Type="datetime" />
+    <Property Name="active" Type="bit" />
+  </EntityType>
+  <EntityContainer Name="ActiveDirectoryObjectsModelStoreContainer">
+    <EntitySet Name="ActiveDirectoryUsers" EntityType="Self.ActiveDirectoryUsers" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

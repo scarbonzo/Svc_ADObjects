@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ActiveDirectoryObjectsModelStoreContainer" CdmEntityContainer="ActiveDirectoryObjectsEntities">
+    <EntitySetMapping Name="ActiveDirectoryUsers">
+      <EntityTypeMapping TypeName="ActiveDirectoryObjectsModel.ActiveDirectoryUser">
+        <MappingFragment StoreEntitySet="ActiveDirectoryUsers">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="username" ColumnName="username" />
+          <ScalarProperty Name="displayname" ColumnName="displayname" />
+          <ScalarProperty Name="firstname" ColumnName="firstname" />
+          <ScalarProperty Name="lastname" ColumnName="lastname" />
+          <ScalarProperty Name="ou" ColumnName="ou" />
+          <ScalarProperty Name="program" ColumnName="program" />
+          <ScalarProperty Name="office" ColumnName="office" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="extension" ColumnName="extension" />
+          <ScalarProperty Name="title" ColumnName="title" />
+          <ScalarProperty Name="groups" ColumnName="groups" />
+          <ScalarProperty Name="passwordlastset" ColumnName="passwordlastset" />
+          <ScalarProperty Name="lastlogin" ColumnName="lastlogin" />
+          <ScalarProperty Name="deleted" ColumnName="deleted" />
+          <ScalarProperty Name="deletiondate" ColumnName="deletiondate" />
+          <ScalarProperty Name="notes" ColumnName="notes" />
+          <ScalarProperty Name="expirable" ColumnName="expirable" />
+          <ScalarProperty Name="lastupdate" ColumnName="lastupdate" />
+          <ScalarProperty Name="active" ColumnName="active" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

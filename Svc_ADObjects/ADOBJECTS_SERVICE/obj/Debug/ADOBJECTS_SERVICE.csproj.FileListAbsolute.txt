@@ -1,0 +1,14 @@
+C:\VS\Svc_ADObjects\Svc_ADObjects\ADOBJECTS_SERVICE\bin\Debug\ADOBJECTS_SERVICE.exe.config
+C:\VS\Svc_ADObjects\Svc_ADObjects\ADOBJECTS_SERVICE\bin\Debug\ADOBJECTS_SERVICE.exe
+C:\VS\Svc_ADObjects\Svc_ADObjects\ADOBJECTS_SERVICE\bin\Debug\ADOBJECTS_SERVICE.pdb
+C:\VS\Svc_ADObjects\Svc_ADObjects\ADOBJECTS_SERVICE\obj\Debug\ADOBJECTS_SERVICE.csprojResolveAssemblyReference.cache
+C:\VS\Svc_ADObjects\Svc_ADObjects\ADOBJECTS_SERVICE\obj\Debug\ADOBJECTS_SERVICE.csproj.CoreCompileInputs.cache
+C:\VS\Svc_ADObjects\Svc_ADObjects\ADOBJECTS_SERVICE\obj\Debug\ADOBJECTS_SERVICE.exe
+C:\VS\Svc_ADObjects\Svc_ADObjects\ADOBJECTS_SERVICE\obj\Debug\ADOBJECTS_SERVICE.pdb
+C:\VS\Svc_ADObjects\Svc_ADObjects\ADOBJECTS_SERVICE\bin\Debug\ADOBJECTS_DATA.dll
+C:\VS\Svc_ADObjects\Svc_ADObjects\ADOBJECTS_SERVICE\bin\Debug\ADOBJECTS_DATA.pdb
+C:\VS\Svc_ADObjects\Svc_ADObjects\ADOBJECTS_SERVICE\bin\Debug\EntityFramework.dll
+C:\VS\Svc_ADObjects\Svc_ADObjects\ADOBJECTS_SERVICE\bin\Debug\EntityFramework.SqlServer.dll
+C:\VS\Svc_ADObjects\Svc_ADObjects\ADOBJECTS_SERVICE\bin\Debug\ADOBJECTS_DATA.dll.config
+C:\VS\Svc_ADObjects\Svc_ADObjects\ADOBJECTS_SERVICE\bin\Debug\EntityFramework.xml
+C:\VS\Svc_ADObjects\Svc_ADObjects\ADOBJECTS_SERVICE\bin\Debug\EntityFramework.SqlServer.xml

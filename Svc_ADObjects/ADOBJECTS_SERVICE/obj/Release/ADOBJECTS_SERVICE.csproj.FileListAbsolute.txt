@@ -1,0 +1,14 @@
+C:\VS\Svc_ADObjects\Svc_ADObjects\ADOBJECTS_SERVICE\bin\Release\ADOBJECTS_SERVICE.exe.config
+C:\VS\Svc_ADObjects\Svc_ADObjects\ADOBJECTS_SERVICE\bin\Release\ADOBJECTS_SERVICE.exe
+C:\VS\Svc_ADObjects\Svc_ADObjects\ADOBJECTS_SERVICE\bin\Release\ADOBJECTS_SERVICE.pdb
+C:\VS\Svc_ADObjects\Svc_ADObjects\ADOBJECTS_SERVICE\bin\Release\ADOBJECTS_DATA.dll
+C:\VS\Svc_ADObjects\Svc_ADObjects\ADOBJECTS_SERVICE\bin\Release\EntityFramework.dll
+C:\VS\Svc_ADObjects\Svc_ADObjects\ADOBJECTS_SERVICE\bin\Release\EntityFramework.SqlServer.dll
+C:\VS\Svc_ADObjects\Svc_ADObjects\ADOBJECTS_SERVICE\bin\Release\ADOBJECTS_DATA.pdb
+C:\VS\Svc_ADObjects\Svc_ADObjects\ADOBJECTS_SERVICE\bin\Release\ADOBJECTS_DATA.dll.config
+C:\VS\Svc_ADObjects\Svc_ADObjects\ADOBJECTS_SERVICE\bin\Release\EntityFramework.xml
+C:\VS\Svc_ADObjects\Svc_ADObjects\ADOBJECTS_SERVICE\bin\Release\EntityFramework.SqlServer.xml
+C:\VS\Svc_ADObjects\Svc_ADObjects\ADOBJECTS_SERVICE\obj\Release\ADOBJECTS_SERVICE.csprojResolveAssemblyReference.cache
+C:\VS\Svc_ADObjects\Svc_ADObjects\ADOBJECTS_SERVICE\obj\Release\ADOBJECTS_SERVICE.csproj.CoreCompileInputs.cache
+C:\VS\Svc_ADObjects\Svc_ADObjects\ADOBJECTS_SERVICE\obj\Release\ADOBJECTS_SERVICE.exe
+C:\VS\Svc_ADObjects\Svc_ADObjects\ADOBJECTS_SERVICE\obj\Release\ADOBJECTS_SERVICE.pdb
